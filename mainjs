@@ -1,5 +1,0 @@
-window.addEventListener('load', () => {
-   console.log('k10');
-});
-
-console.log('k');
